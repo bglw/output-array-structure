@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
 
+mkdir -p _cloudcannon/images/
 curl http://placekitten.com/600/400 --output _cloudcannon/images/kitten.png
