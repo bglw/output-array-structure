@@ -1,0 +1,15 @@
+title: "Struct"
+include: _cloudcannon
+
+_array_structures:
+  blocks:
+    style: modal
+    values:
+      - label: Kitten
+        image: /_cloudcannon/images/kitten.png
+        value:
+          title: "Kitten"
+      - label: Not Kitten
+        icon: pets
+        value:
+          nothing: true

@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+curl http://placekitten.com/600/400 --output _cloudcannon/images/kitten.png
