@@ -1,5 +1,6 @@
 title: "Struct"
-include: _cloudcannon
+include: 
+  - _cloudcannon
 
 _array_structures:
   blocks:
